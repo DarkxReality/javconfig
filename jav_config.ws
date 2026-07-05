@@ -1,6 +1,6 @@
 title=Ascent
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://w1.ascentps.co.uk/
+codebase=http://15.235.9.15/
 cachedir=ascentps
 storebase=0
 initial_jar=gamepack_3253724.jar
