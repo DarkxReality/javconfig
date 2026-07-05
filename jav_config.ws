@@ -57,7 +57,7 @@ param=21=0
 param=12=1
 param=2=https://payments.jagex.com/
 param=18=
-param=17=https://github.com/Leif-Yggdrasil/hosting/raw/refs/heads/main/world_list.ws
+param=17=https://github.com/DarkxReality/javconfig/blob/main/world_list.ws
 param=20=https://social.auth.jagex.com/
 param=3=true
 param=15=0
