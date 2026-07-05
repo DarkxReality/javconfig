@@ -1,9 +1,9 @@
-title=Old School RuneScape
+title=Ascent
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://oldschool17.runescape.com/
-cachedir=oldschool
+codebase=http://w1.ascentps.co.uk/
+cachedir=ascentps
 storebase=0
-initial_jar=gamepack_2740394.jar
+initial_jar=gamepack_3253724.jar
 initial_class=client.class
 termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
@@ -13,7 +13,8 @@ mac_sub_version=2
 other_sub_version=2
 browsercontrol_win_x86_jar=browsercontrol_0_-1928975093.jar
 browsercontrol_win_amd64_jar=browsercontrol_1_1674545273.jar
-download=1365098
+gedigesturl=https://secure.runescape.com/m=itemdb_oldschool/g=oldscape/digest.csv
+download=331460
 window_preferredwidth=800
 window_preferredheight=600
 advert_height=96
@@ -22,7 +23,7 @@ applet_minheight=503
 applet_maxwidth=5760
 applet_maxheight=2160
 msg=lang0=English
-msg=tandc=This game is copyright � 1999 - 2019 Jagex Ltd.\Use of this game is subject to our ["http://www.runescape.com/terms/terms.ws"Terms and Conditions] and ["http://www.runescape.com/privacy/privacy.ws"Privacy Policy].
+msg=tandc=This game is copyright © 1999 - 2026 Jagex Ltd.\Use of this game is subject to our ["https://legal.jagex.com/docs/terms"Terms and Conditions] and ["https://legal.jagex.com/docs/policies/privacy"Privacy Policy]. ["https://legal.jagex.com/docs/policies/privacy/exercising-your-rights"Do Not Sell Or Share My Personal Information].
 msg=options=Options
 msg=language=Language
 msg=changes_on_restart=Your changes will take effect when you next start this program.
@@ -44,22 +45,26 @@ msg=err_get_file=Error getting file
 msg=new_version=Update available! You can now launch the client directly from the OldSchool website.\nGet the new version from the link on the OldSchool homepage: http://oldschool.runescape.com/
 msg=new_version_linktext=Open OldSchool Homepage
 msg=new_version_link=http://oldschool.runescape.com/
-param=8=true
-param=14=0
-param=2=https://payments.jagex.com/operator/v1/
 param=10=5
-param=7=0
-param=11=https://auth.jagex.com/
-param=3=true
-param=12=1
-param=18=
-param=15=0
+param=25=235
+param=28=https://account.jagex.com/
+param=22=https://auth.runescape.com/
 param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
-param=17=https://community.kronos.rip/integration/data/worlds.ws
-param=16=false
-param=1=1
-param=13=.runescape.com
-param=6=0
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
+param=4=1
+param=14=0
+param=21=0
+param=12=1
+param=2=https://payments.jagex.com/
+param=18=
+param=17=https://github.com/Leif-Yggdrasil/hosting/raw/refs/heads/main/world_list.ws
+param=20=https://social.auth.jagex.com/
+param=3=true
+param=15=0
 param=5=1
-param=4=49009
+param=16=false
+param=8=true
+param=6=0
+param=11=https://auth.jagex.com/
+param=7=0
+param=13=.runescape.com
